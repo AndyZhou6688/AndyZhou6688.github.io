@@ -6,7 +6,7 @@
 
 This is a __bold__ *italic* test sample.
 
-This is a [hyperlink](http://localhost:8090/).
+This is a [hyperlink](More.md).
 
 ---
 
